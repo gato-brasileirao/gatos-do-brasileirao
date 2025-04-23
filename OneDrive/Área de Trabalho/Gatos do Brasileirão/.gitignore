@@ -1,13 +1,15 @@
 # Ignorar arquivos do sistema
 .DS_Store
 Thumbs.db
+
 # Ignorar diretórios e arquivos indesejados
 node_modules/
 .vscode/
 *.log
 *.bak
 .git/
-# Ignorar arquivos pessoais
+
+# Ignorar diretórios pessoais
 **/Documents/
 **/Downloads/
 **/Videos/
